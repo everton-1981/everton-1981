@@ -33,7 +33,7 @@ Profissional Sênior com **+10 anos de experiência** conectando **negócio e te
 | :--- | :--- | :--- |
 | 🧰 [`Gestao-projetos`](https://github.com/everton19811/gerente-de-projetos) | **Repo-modelo-case** com cases de projetos. Use como *template* para novos projetos. | PMBOK · Scrum |
 | 🚀 [`transformacao-digital`](https://github.com/everton19811/transforma-o-digital) | Case anonimizado de transformação digital com escopo, cronograma, riscos e lições aprendidas. | PMBOK · Scrum |
-| 🛡️ [`product-owner`]([https://github.com/everton19811/product-owner) | Case de atuação como Product Owner | PO · ITIL · Governança |
+| 🛡️ [`product-owner`](https://github.com/everton19811/product-owner) | Case de atuação como Product Owner | PO · ITIL · Governança |
 | 📈 [`dashboards-kpis-projetos`](https://github.com/everton19811/dashboards-kpis-projetos) | Modelos de KPIs, EVM e Status Report semanal. | KPIs · EVM · Reporting |
 
 ---
