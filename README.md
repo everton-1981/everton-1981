@@ -76,8 +76,8 @@ Profissional Sênior com **+10 anos** liderando projetos que integraram **+20 si
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=everton19811&show_icons=true&theme=default&hide_border=true&title_color=0077B5&icon_color=0077B5"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton19811&layout=compact&hide_border=true&title_color=0077B5&langs_count=8"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=everton-1981&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=everton-1981&theme=default" />
 </div>
 
 ---
