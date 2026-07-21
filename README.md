@@ -45,15 +45,6 @@ Profissional Sênior com **mais de 10 anos de experiência** atuando na ponte es
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=everton1981&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton1981&layout=compact&theme=tokyonight&hide=html,css"/>
-</div>
-
----
-
 ### 🎓 Formação Acadêmica
 
 - 🎓 **Pós-graduação em Gestão de Projetos** — *Faculdade Alphaville* (Ênfase em PMBOK, Scrum, Kanban, Riscos e Stakeholders)
