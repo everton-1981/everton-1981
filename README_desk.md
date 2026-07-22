@@ -1,29 +1,23 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=200&section=header&text=Everton%20Pereira%20Santos&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Gerente%20de%20Projetos%20|%20Analista%20Funcional%20Sr.%20|%20Product%20Owner&descAlignY=60&descSize=16)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=160&section=header&text=Everton%20Pereira%20Santos&fontSize=32&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="header"/>
 
-### 🟢 Disponível para novas oportunidades — Início imediato
-**📍 São Paulo/SP · CLT ou PJ · Presencial · Híbrido · 100% Remoto**
+**Gerente de Projetos · Analista Funcional Sr. · Product Owner**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evertonpereirasantos)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511967413787)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:everton.pereira1981@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Open_to_Work-00A86B?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.linkedin.com/in/evertonpereirasantos)
+🟢 **Disponível para novas oportunidades — Início imediato**
+📍 São Paulo/SP · CLT ou PJ · Presencial · Híbrido · 100% Remoto
 
-![Profile Views](https://komarev.com/ghpvc/?username=everton-1981&label=Visitas&color=0a66c2&style=flat)
-![Followers](https://img.shields.io/github/followers/everton-1981?label=Followers&style=flat&color=0a66c2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evertonpereirasantos) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511967413787) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:everton.pereira1981@gmail.com) [![Open to Work](https://img.shields.io/badge/Open_to_Work-00A86B?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.linkedin.com/in/evertonpereirasantos)
+
+![Profile Views](https://komarev.com/ghpvc/?username=everton-1981&label=Visitas&color=0a66c2&style=flat) ![Followers](https://img.shields.io/github/followers/everton-1981?label=Followers&style=flat&color=0a66c2)
 
 </div>
-
----
 
 ## 👋 Sobre mim
 
 Profissional com **+10 anos** em **Gestão de Projetos, Análise Funcional e Governança de TI**, liderando iniciativas de transformação digital em ambientes com **+20 sistemas integrados** (ERP, CRM, BI, Cloud). Atuação prática em **PMBOK, Scrum, ITIL e SAFe**, com foco em resultado mensurável: redução de custo, ganho de eficiência e entrega de valor ao negócio.
 
 📌 **Este perfil funciona como portfólio vivo** — cada repositório abaixo é um case real (anonimizado) documentado com artefatos de mercado.
-
----
 
 ## 📂 Portfólio de Cases
 
@@ -32,9 +26,8 @@ Profissional com **+10 anos** em **Gestão de Projetos, Análise Funcional e Gov
 | 🧰 [`gerente-de-projetos`](https://github.com/everton-1981/gerente-de-projetos) | Templates PMBOK reutilizáveis (Charter, EAP, Riscos, Post-Mortem). | PMBOK 7 · Mermaid · Governança |
 | 🚀 [`transforma-o-digital`](https://github.com/everton-1981/transforma-o-digital) | 5 cases: Planejamento Orçamentário, Modernização Cognos, Migra2Cloud, Estrutura Mercadológica, Docusign. | PMBOK · Cloud · TM1 · SAP |
 | 🛡️ [`product-owner`](https://github.com/everton-1981/product-owner) | 3 cases de Discovery e Delivery: Marketplace B2C, App Loyalty, Open Banking. | Scrum · Discovery · HEART |
-| 📊 [`analise-funcional`](https://github.com/everton-1981/documentacao-analise-funcional) | Material didático completo de Análise Funcional (BRD, FRD, SRS) + case de Conciliação Financeira. | BRD · FRD · SRS · UML |
+| 📊 [`analise-funcional`](https://github.com/everton-1981/documentacao-analise-funcional) | Material didático de Análise Funcional (BRD, FRD, SRS) + case de Conciliação Financeira. | BRD · FRD · SRS · UML |
 | 📈 [`portfolio-de-cases`](https://github.com/everton-1981/portfolio-de-cases) | Dashboards de projetos: KPIs, EVM e Status Report semanal. | KPIs · EVM · Reporting |
----
 
 ## 🏆 Conquistas com resultado (STAR)
 
@@ -56,9 +49,8 @@ Profissional com **+10 anos** em **Gestão de Projetos, Análise Funcional e Gov
 - **A:** Modelei cubos, criei regras TM1 e treinei usuários-chave.
 - **R:** Fechamento mensal **de 5 dias para 2 dias** (-60% no tempo).
 
----
-
 ## 🛠️ Ferramentas & Metodologias
+<div align="center">
 
 | Gestão | Análise & Docs | BI & Dados | Cloud & Colaboração |
 |---|---|---|---|
@@ -67,40 +59,22 @@ Profissional com **+10 anos** em **Gestão de Projetos, Análise Funcional e Gov
 | ![ITIL](https://img.shields.io/badge/ITIL_4-2E8B57?style=flat) | ![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=flat&logo=mermaid&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) | ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white) |
 | ![SAFe](https://img.shields.io/badge/SAFe-0072C6?style=flat) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) | ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white) | ![Docusign](https://img.shields.io/badge/Docusign-FFCC22?style=flat&logo=docusign&logoColor=white) |
 
----
-
-## 📚 Estudos Aplicados
-
-Portfólio construído aplicando na prática **PMBOK 7**, **Scrum**, **Análise Funcional** e **Governança ITIL** em cases reais anonimizados. Cada repositório é uma vitrine de artefatos de mercado prontos para reuso.
-
----
-
+</div>
 ## 🎓 Formação
 
-- 🎓 **Análise e Desenvolvimento de Sistemas** — Universidade
+- 🎓 **Análise e Desenvolvimento de Sistemas**
 - 📖 **Idiomas:** Português (Nativo)
-
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=everton-1981&show_icons=true&theme=nord&hide_border=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=everton-1981&theme=nord&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
 
 ### 📬 Vamos conversar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evertonpereirasantos)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511967413787)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:everton.pereira1981@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evertonpereirasantos) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511967413787) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:everton.pereira1981@gmail.com)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=80&section=footer" width="100%" alt="footer"/>
 
 </div>
