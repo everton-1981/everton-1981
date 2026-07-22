@@ -12,7 +12,7 @@
 
 --- 
 
-## 👋 Sobre mim
+## 👋 Sobre mim 
 
 Profissional Sênior com **+10 anos** liderando projetos que integraram **+20 sistemas legados e cloud** em empresas de grande porte (GPA, Verx, 3CON), conectando **negócio e tecnologia** com foco em resultado mensurável.
 
