@@ -31,10 +31,10 @@ Profissional Sênior com **+10 anos de experiência** conectando **negócio e te
 
 | Repositório | Descrição | Stack / Metodologia |
 | :--- | :--- | :--- |
-| 🧰 [`Gestao-projetos`](https://github.com/everton19811/gerente-de-projetos) | **Repo-modelo-case** com cases de projetos. Use como *template* para novos projetos. | PMBOK · Scrum |
-| 🚀 [`transformacao-digital`](https://github.com/everton19811/transforma-o-digital) | Case anonimizado de transformação digital com escopo, cronograma, riscos e lições aprendidas. | PMBOK · Scrum |
-| 🛡️ [`product-owner`](https://github.com/everton19811/product-owner) | Case de atuação como Product Owner | PO · ITIL · Governança |
-| 📈 [`portfolio-de-cases`](https://github.com/everton19811/portfolio-de-cases) | Modelos de KPIse Status Report semanal. | KPIs · BI · Reporting |
+| 🧰 [`Gestao-projetos`](https://github.com/everton-1981/gerente-de-projetos) | **Repo-modelo-case** com cases de projetos. Use como *template* para novos projetos. | PMBOK · Scrum |
+| 🚀 [`transformacao-digital`](https://github.com/everton-1981/transforma-o-digital) | Case anonimizado de transformação digital com escopo, cronograma, riscos e lições aprendidas. | PMBOK · Scrum |
+| 🛡️ [`product-owner`](https://github.com/everton-1981/product-owner) | Case de atuação como Product Owner | PO · ITIL · Governança |
+| 📈 [`portfolio-de-cases`](https://github.com/everton-1981/portfolio-de-cases) | Modelos de KPIse Status Report semanal. | KPIs · BI · Reporting |
 
 ---
 
