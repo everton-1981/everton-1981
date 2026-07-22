@@ -32,11 +32,11 @@ Profissional Sênior com **+10 anos** liderando projetos que integraram **+20 si
 
 | Repositório | Descrição | Stack / Metodologia |
 | :--- | :--- | :--- |
-| 🧰 [`gerente-de-projetos`](https://github.com/everton19811/gerente-de-projetos) | Repositório-modelo com **templates PMBOK reutilizáveis** (Charter, EAP, Riscos, Post-Mortem). | PMBOK · Scrum |
-| 🚀 [`transforma-o-digital`](https://github.com/everton19811/transforma-o-digital) | 6 cases anonimizados de transformação digital: TM1, migração cloud, modernização de legado Cobol, Docusign+Ariba. | PMBOK · Scrum · SAFe |
-| 🛡️ [`product-owner`](https://github.com/everton19811/product-owner) | 3 cases como PO: Marketplace B2C, App de Fidelidade e Plataforma Open Banking. | Scrum · Discovery · HEART |
-| 📈 [`portfolio-de-cases`](https://github.com/everton19811/portfolio-de-cases) | Modelos de KPIs, EVM e Status Report semanal para PMO. | KPIs · EVM · BI · Reporting |
-| 📋 [`documentacao-analise-funcional`](https://github.com/everton19811/documentacao-analise-funcional) | Material didático de Análise Funcional (BRD, FRD, SRS, UML) com case de conciliação financeira. | BABOK · UML · BPMN |
+| 🧰 [`gerente-de-projetos`](https://github.com/everton-1981/gerente-de-projetos) | Repositório-modelo com **templates PMBOK reutilizáveis** (Charter, EAP, Riscos, Post-Mortem). | PMBOK · Scrum |
+| 🚀 [`transforma-o-digital`](https://github.com/everton-1981/transforma-o-digital) | 6 cases anonimizados de transformação digital: TM1, migração cloud, modernização de legado Cobol, Docusign+Ariba. | PMBOK · Scrum · SAFe |
+| 🛡️ [`product-owner`](https://github.com/everton-1981/product-owner) | 3 cases como PO: Marketplace B2C, App de Fidelidade e Plataforma Open Banking. | Scrum · Discovery · HEART |
+| 📈 [`portfolio-de-cases`](https://github.com/everton-1981/portfolio-de-cases) | Modelos de KPIs, EVM e Status Report semanal para PMO. | KPIs · EVM · BI · Reporting |
+| 📋 [`documentacao-analise-funcional`](https://github.com/everton-1981/documentacao-analise-funcional) | Material didático de Análise Funcional (BRD, FRD, SRS, UML) com case de conciliação financeira. | BABOK · UML · BPMN |
 
 ---
 
