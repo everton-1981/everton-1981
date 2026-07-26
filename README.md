@@ -30,7 +30,7 @@ Atuação prática em **PMBOK, Scrum, Kanban e ITIL**, especialista em ambientes
 | 🧰 [`Projetos`](https://github.com/everton-1981/gerente-de-projetos) | Templates PMBOK reutilizáveis (Charter, EAP, Riscos, Post-Mortem). | PMBOK 7 · Mermaid · Governança |
 | 🚀 [`Digital`](https://github.com/everton-1981/transforma-o-digital) | 5 cases: Planejamento Orçamentário, Modernização Cognos, Migra2Cloud, Estrutura Mercadológica, Docusign. | PMBOK · Cloud · TM1 · SAP |
 | 🛡️ [`product-owner`](https://github.com/everton-1981/product-owner) | 3 cases de Discovery e Delivery: Marketplace B2C, App Loyalty, Open Banking. | Scrum · Discovery · HEART |
-| 📊 [`analise-funcional`](https://github.com/everton-1981/documentacao-analise-funcional) | Material didático de Análise Funcional (BRD, FRD, SRS) + case de Conciliação Financeira. | BRD · FRD · SRS · UML |
+| 📊 [`Analise`](https://github.com/everton-1981/documentacao-analise-funcional) | Material didático de Análise Funcional (BRD, FRD, SRS) + case de Conciliação Financeira. | BRD · FRD · SRS · UML |
 | 📈 [`Cases`](https://github.com/everton-1981/portfolio-de-cases) | Dashboards de projetos: KPIs, EVM e Status Report semanal. | KPIs · EVM · Reporting |
 
 ## 🏆 Conquistas com resultado (STAR)
